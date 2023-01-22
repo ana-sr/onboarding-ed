@@ -57,3 +57,11 @@ Seguem abaixo links para cada conteúdo:
 4) [KAFKA](4-kafka/5-2-kafka-exercicios.md)
 5) [AIRFLOW](5-airflow/4-2-airflow-exercicios.md)
 6) [TERRAFORM](6-terraform/3-2-terraform-exercicios.md)
+
+## Desenvolvimento
+- ![](https://geps.dev/progress/10) Python
+- ![](https://geps.dev/progress/10) Spark
+- [ ] Terraform
+- [ ] Airflow
+- [ ] Kafka
+- [ ] SQL
