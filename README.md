@@ -59,9 +59,9 @@ Seguem abaixo links para cada conteúdo:
 6) [TERRAFORM](6-terraform/3-2-terraform-exercicios.md)
 
 ## Desenvolvimento
-- ![](https://geps.dev/progress/10) Python
-- ![](https://geps.dev/progress/10) Spark
-- [ ] Terraform
-- [ ] Airflow
-- [ ] Kafka
-- [ ] SQL
+- ![](https://geps.dev/progress/0) Python
+- ![](https://geps.dev/progress/0) Spark
+- ![](https://geps.dev/progress/0) Terraform
+- ![](https://geps.dev/progress/0) Airflow
+- ![](https://geps.dev/progress/0) Kafka
+- ![](https://geps.dev/progress/0) SQL
